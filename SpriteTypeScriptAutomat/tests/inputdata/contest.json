@@ -1,0 +1,21 @@
+
+{
+    "contesturl": "https://sprite-joke-in-a-bottle.coke2home.com/contest",
+    "howtopartic": "https://017526-content-prod.s3.ap-south-1.amazonaws.com/Contest/Mobile/PromoBanner_english.svg",
+    "contestKV": "https://017526-content-prod.s3.ap-south-1.amazonaws.com/Contest/Mobile/ContextBannerEnglish.png",
+    "RewardsPool": "Rewards Pool",
+    "HowtoGatherComicCoins":"How to Gather Comic Coins",
+    "phonmepee": "https://017526-content-prod.s3.ap-south-1.amazonaws.com/Rewards/Mobile/10rsvoucher.svg",
+    "mmtvoucher": "https://017526-content-prod.s3.ap-south-1.amazonaws.com/Rewards/Mobile/makemytrip.svg",
+    "leaderboard": "https://sprite-joke-in-a-bottle.coke2home.com/leaderboard",
+    "ContestURL":"https://sprite-joke-in-a-bottle.coke2home.com/contest",
+    "ComiccoinURL":"https://sprite-joke-in-a-bottle.coke2home.com/my_wallet",
+    "CONTEST":"CONTEST",
+    "ComicCoins": "Comic Coins",
+    "Leaderboardtext": "Leaderboard",
+    "ugcurl": "https://sprite-joke-in-a-bottle.coke2home.com/ugc",
+    "myprofile": "https://sprite-joke-in-a-bottle.coke2home.com/my_profile",
+    "spriteBottleContest": "/assets/img/animation/bottle@1x.jpg",
+    "drinkmore": "Drink more, collect more, win more*",
+    "videobannercontest": "https://017526-content-prod.s3.ap-south-1.amazonaws.com/Contest/Mobile/Sprite-contest-banner.mp4"
+}

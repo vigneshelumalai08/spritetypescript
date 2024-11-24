@@ -1,0 +1,22 @@
+{
+    "homeText": "Home",
+    "contestText": "Contest",
+    "Comedians" : "Comedians' Spotlight",
+    "Challenge": "PJ Challenge?",
+    "Pickyourmood":"Pick your mood",
+    "JokeBox" : "Joke Box",
+    "HALLOFLAME": "HALL-OF-LAME 🤪",
+    "ReferAFriend": "Refer A Friend",
+    "HaveanInviteCode": "Have an Invite Code?",
+    "Voteforthefunniest": "  Vote for the funniest PJsCollect Comic Coins!",
+    "ContactUs":"Contact Us",
+    "FAQs":"FAQs",
+    "TermsConditions": "Terms & Conditions",
+    "PrivacyPolicy": "Privacy Policy",
+    "emptyError": "Please enter a valid unique code.",
+    "Usedcodeerror": "Used code entered. Please try again with new code",
+    "invalidErrorcode": "This code is invalid. Please try a different code.",
+    "UsedcodeUnique" :"7TMBBD6QLW"
+
+
+}

@@ -1,0 +1,15 @@
+{
+    "LoginWithLock":" Login to Unlock",
+    "SpriteGifCodepop":"/assets/img/animation/unique-code.gif",
+    "LockParticipateheader":"Participate & win* an exclusive MakeMyTrip voucher worth Rs.25,000",
+    "LockParticipateSubheader":"Enter the unique code from behind the label of a Sprite® bottle",
+    "LockUniqeNote":" You can enter up to 5 codes in a day!",
+    "emptynoalert":"Please enter a valid 10-digit mobile number.",
+    "OTPVERIFICATION":"OTP VERIFICATION",
+    "optsubhead":"Please enter the OTP sent to yourregistered mobile number",
+    "OtpSubmit":"Submit",
+    "EmptyOtpAlert":"Please enter the OTP sent to your registered mobile number",
+    "tryagain":"",
+    "signup": "SIGN UP",
+    "subheadesignup":"Let’s break the ice"
+}

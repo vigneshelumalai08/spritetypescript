@@ -1,0 +1,21 @@
+{
+    "launchURL": "https://devsprite-joke-in-a-bottle.coke2home.com/",
+    "ContestURL":"https://devsprite-joke-in-a-bottle.coke2home.com/contest",
+    "LoginToUnlockText":"Login to Unlock",
+    "headerTextLock": "Participate & win* an exclusive MakeMyTrip voucher worth Rs.25,000",
+    "SubHeaderTextLock": "Enter the unique code from behind the label of a Sprite® bottle",
+    "NoteTextValidate": " You can enter up to 5 codes in a day!",
+    "SpriteLockGifSrc": "/assets/img/animation/unique-code.gif",
+    "contentURLBefoerLogin": "https://devsprite-joke-in-a-bottle.coke2home.com/contest",
+    "BurgurMenu":"",
+    "LoginTextVali": "LOG IN",
+    "LoginheaderText": "To participate & win* prizes up to Rs.25,000*!",
+    "LoginSubHeaderText":"Enter the unique code from behind the label to get started!",
+    "invalidMobileNumbererror": "Please enter a valid 10-digit mobile number.",
+    "OtpHeaderText": "OTP VERIFICATION",
+    "Otpsubheadertext": "Please enter the OTP sent to yourregistered mobile number",
+    "OtpGifsrc": "/assets/img/animation/bottle-sprite-t.gif",
+    "submitOtp": "Submit",
+    "InvalidOtpError":"Please enter the OTP sent to your registered mobile number"
+    
+}
