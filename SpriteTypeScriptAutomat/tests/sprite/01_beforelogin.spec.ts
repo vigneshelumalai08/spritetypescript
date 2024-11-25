@@ -103,6 +103,8 @@ test.describe("LoginGroup", () => {
                             await loginpage.elements.GetOTPcta().click();
                         }else
                         {
+
+                            await page.waitForTimeout(2000)
                             await loginpage.elements.LoginToUnlockText().click();
                             await loginpage.elements.mobileTextBox().click()
                             await loginpage.enterMobileNumber(userdata.invalidMobileNumberwithAlpha);
