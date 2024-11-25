@@ -82,6 +82,7 @@ test.describe(async()=>
                 await Comiccoinpage.elements.ComicCoinpageclick().click();
             }
             expect.soft(await Comiccoinpage.elements.phonepeheader().textContent()).toBe(comic.PhonePeCashbacktext);
+            
             await page.waitForTimeout(2000)
             const EnterCodeCTAElement = await Comiccoinpage.elements.entercodeCTAphone().isVisible();
             console.log(EnterCodeCTAElement)
@@ -93,6 +94,7 @@ test.describe(async()=>
                     await Comiccoinpage.elements.entercodeCTAphone().click();
                     await burgerMenuFunction.popupclose();
                     expect.soft(await Comiccoinpage.elements.nowinsimg().getAttribute('src')).toBe(comic.notwin);
+                    await page.waitForTimeout(2000)
                 }
             } else {
                 console.log("Enter Code CTA is not available on the page.");
